@@ -19,7 +19,7 @@ int main()
 
 	std::cout << "----------------ADIVINA EL NUMERO DEL DADO!----------------\n\n"; Sleep(1000);
 	std::cout << "El juego consiste en escribir un numero del 1 al 6\n\n"; Sleep(1500);
-	std::cout << "¡Adivina el numero del dado!\n"; Sleep(1000);
+	std::cout << "Adivina el numero del dado!!\n"; Sleep(1000);
 
 	do {
 		std::cout << "\nEscribe un numero del 1 al 6: "; std::cin >> num;
